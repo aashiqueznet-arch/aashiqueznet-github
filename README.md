@@ -1,2 +1,25 @@
-# aashiqueznet-github
-प्रोजेक्ट का नाम: सबसे पहले प्रोजेक्ट का नाम साफ-साफ लिखें, जैसे कि “Algo Trading App” या कोई भी यूनिक नाम। उद्देश्य: डिस्क्रिप्शन में बताएं कि यह ऐप खास तौर पर ट्रेडिंग के लिए एल्गोरिदम का इस्तेमाल करेगा, जिससे यूज़र्स को मार्केट में बेहतर निर्णय लेने में मदद मिलेगी। फीचर्स: ऐप के फीचर्स में शामिल करें, जैसे कि रियल-टाइम डाटा एनालिसिस, 
+# Algo Trading Chart App
+
+This is a web-based trading chart application designed to display real-time market data using candlestick charts.
+
+## 🚀 Features
+- Live Trading Chart
+- Candlestick View
+- Stop Loss & Target Indicator (Planned)
+- Real-time Data (API based - future)
+- Simple and user-friendly UI
+
+## 🛠️ Tech Used
+- HTML
+- CSS
+- JavaScript
+- TradingView Chart Library
+
+## 🎯 Purpose
+This project is created for learning and building a smart trading tool that helps users analyze charts and take better trading decisions.
+
+## 🔮 Future Updates
+- Live Market Data Integration
+- RSI / MACD Indicators
+- Auto Buy/Sell Signals
+- AWS Cloud Deployment
